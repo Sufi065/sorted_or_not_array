@@ -24,6 +24,5 @@ int main()
    cout<<"Sorted";
    else
    cout<<"Not Sorted";
-
     return 0;
 }
